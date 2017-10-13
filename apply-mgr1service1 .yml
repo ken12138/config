@@ -1,0 +1,9 @@
+port: 7 
+ip: 127.0.0.0
+webIp: localhost
+webPort: 8084
+maxCaptureMerory: 800
+maxMergeMerory:
+maxPumpMerory: 400
+maxApplyMerory: 600
+token: null
